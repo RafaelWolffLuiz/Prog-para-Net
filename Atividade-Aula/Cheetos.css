@@ -1,0 +1,16 @@
+p {
+    color: red;
+    font-size: 23pt;
+}
+
+
+
+td{
+    border: 1px solid black
+}
+
+table{
+    Border: 2px solid black;
+    border-collapse: collapse;
+    
+}
